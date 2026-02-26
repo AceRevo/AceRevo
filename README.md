@@ -20,7 +20,7 @@ Soy un apasionado de la tecnología, la personalización de sistemas y el desarr
 - ⚡ Intereses: Automatización, virtualización y optimización de flujos de trabajo.
 - 💬 Pregúntame sobre: **Linux, scripts en Bash o por qué Hyprland es visualmente increíble.**
 
-> "Si no está roto, customízalo hasta que lo esté... y luego arréglalo." 🛠️
+> "Si no está roto, customízalo hasta que lo esté... y luego arréglalo." 
 </details>
 
 <details>

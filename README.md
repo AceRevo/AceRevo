@@ -1,5 +1,8 @@
 # ¡Hola! Soy AceRevo 👋 
 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-blue?style=flat-square" />
 </p>

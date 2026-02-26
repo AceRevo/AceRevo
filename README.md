@@ -80,9 +80,10 @@ I am a technology enthusiast, passionate about system customization and software
 ###  ¡Conectemos! / Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/gigachad-plus-ultra-6b56aa326" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/angel-l-saenz-s-6b56aa326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.tiktok.com/@4cerev0" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://steamcommunity.com/profiles/76561199242327508/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 <a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+<a href="https://spacehey.com/profile?id=2313298" target="blank"><img src="https://img.shields.io/badge/SpaceHey-1D4ED8?style=for-the-badge&logo=spacehey&logoColor=white" alt="SpaceHey" /></a>
 <a href="https://soundcloud.com/leonardo-saenz-78757811" target="blank"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
 </p>

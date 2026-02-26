@@ -35,7 +35,7 @@ I am a technology enthusiast, passionate about system customization and software
 - ⚡ Interests: Automation, virtualization, and workflow optimization.
 - 💬 Ask me about: **Linux, Bash scripting, or why Hyprland is visually stunning.**
 
-> "If it ain't broken, customize it until it is... then fix it." 🛠️
+> "If it ain't broken, customize it until it is... then fix it." 
 </details>
 
 ---

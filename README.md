@@ -83,5 +83,15 @@ I am a technology enthusiast, passionate about system customization and software
 <a href="https://linkedin.com/in/gigachad-plus-ultra-6b56aa326" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.tiktok.com/@4cerev0" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://steamcommunity.com/id/TU_ID_STEAM" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
-<a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  
+  <div align="center">
+  <h3>🎧 Mi Playlist Favorita</h3>
+  <a href="https://www.youtube.com/watch?v=C9g3pU0VZd4">
+    <img src="https://img.youtube.com/vi/C9g3pU0VZd4/0.jpg" width="400" alt="Reproducir música" style="border-radius:15px;">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=C9g3pU0VZd4">
+    <img src="https://img.shields.io/badge/PLAY-Click_para_escuchar-red?style=for-the-badge&logo=youtube" alt="Play">
+  </a>
+</div><a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>

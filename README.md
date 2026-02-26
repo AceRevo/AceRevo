@@ -42,7 +42,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ###  Mi Arsenal Tecnológico / My Tech Stack
 
-#### 💻 Sistemas Operativos & Entornos (Linux Enthusiast)
+####  Sistemas Operativos & Entornos (Linux Enthusiast)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)

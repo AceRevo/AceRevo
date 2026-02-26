@@ -1,4 +1,6 @@
-![Diseño sin título(1)(1)(1)(1)](https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" alt="Banner AceRevo">
+</p>
 
 # ¡Hola! Soy AceRevo 👋 
 

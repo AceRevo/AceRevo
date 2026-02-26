@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-blue?style=flat-square" />
 </p>
 
-### 👨‍💻 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
+###  Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
 
 ---
 
@@ -14,7 +14,7 @@
 
 Soy un apasionado de la tecnología, la personalización de sistemas y el desarrollo de software. Mi fuerte es la curiosidad técnica: desde configurar un entorno **Gentoo** desde cero hasta desarrollar aplicaciones con **Java** o **Python**.
 
-### 🚀 Sobre mí
+###  Sobre mí
 - 🔭 Actualmente enfocado en: **Dominar el stack de DAM**.
 - 🐧 "I use Arch, btw": Amante de los Tiling Window Managers y la eficiencia en terminal.
 - ⚡ Intereses: Automatización, virtualización y optimización de flujos de trabajo.
@@ -29,7 +29,7 @@ Soy un apasionado de la tecnología, la personalización de sistemas y el desarr
 
 I am a technology enthusiast, passionate about system customization and software development. My strength is technical curiosity: from configuring a **Gentoo** environment from scratch to developing applications with **Java** or **Python**.
 
-### 🚀 About Me
+###  About Me
 - 🔭 Currently focused on: **Mastering the DAM (Multiplatform App Development) stack**.
 - 🐧 "I use Arch, btw": Fan of Tiling Window Managers and terminal efficiency.
 - ⚡ Interests: Automation, virtualization, and workflow optimization.
@@ -40,7 +40,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-### 🛠️ Mi Arsenal Tecnológico / My Tech Stack
+###  Mi Arsenal Tecnológico / My Tech Stack
 
 #### 💻 Sistemas Operativos & Entornos (Linux Enthusiast)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -52,7 +52,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 
-#### 🧠 Lenguajes & Bases de Datos
+####  Lenguajes & Bases de Datos
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -61,7 +61,7 @@ I am a technology enthusiast, passionate about system customization and software
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ⚙️ Herramientas & Virtualización / Tools
+####  Herramientas & Virtualización / Tools
 - **IDEs:** VS Code, IntelliJ IDEA, Eclipse, SQL Developer, phpMyAdmin.
 - **Virtualization:** VMware, VirtualBox, Microsoft Azure.
 - **Shells:** Bash, Zsh, Fish.
@@ -69,7 +69,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-### 📊 Estadísticas / Stats
+###  Estadísticas / Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AceRevo&show_icons=true&theme=tokyonight&hide_border=true" alt="AceRevo Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=tokyonight&hide_border=true" alt="AceRevo Top Langs" />
@@ -77,7 +77,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-### 🔗 ¡Conectemos! / Let's Connect!
+###  ¡Conectemos! / Let's Connect!
 
 <p align="left">
 <a href="https://linkedin.com/in/gigachad-plus-ultra-6b56aa326" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

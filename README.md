@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" alt="Banner AceRevo">
+  <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" width="800">
 </p>
 
 # ¡Hola! Soy AceRevo 👋 

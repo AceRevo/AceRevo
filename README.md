@@ -172,17 +172,20 @@ I am a technology enthusiast, passionate about system customization and software
 <a href="https://steamcommunity.com/id/TU_ID_STEAM" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 <a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 
-
 <div align="center">
-  <a href="TU_LINK_DE_SOUNDCLOUD_AQUÍ">
+  <a href="https://soundcloud.com/leonardo-saenz-78757811/sets/mux-switch">
     <kbd>
       <br>
-      <b>Reproduciendo desde SoundCloud</b><br>
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Music/sound_visualizer.gif" width="250">
+      <img src="https://img.shields.io/badge/SOUNDCLOUD-PLAYLIST-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Music/sound_visualizer.gif" width="300">
       <br>
-      <span>━━━━━━━●────── 3:45</span><br>
-      <img src="https://img.shields.io/badge/-%E2%8F%AE-gray?style=flat"> <img src="https://img.shields.io/badge/-%E2%96%B6%EF%B8%8F-orange?style=flat"> <img src="https://img.shields.io/badge/-%E2%8F%AD-gray?style=flat">
+      <b>🎵 MUX SWITCH 🎵</b><br>
+      <span>0:45 ━━━━━━━●────── 15:00</span><br>
+      <img src="https://img.shields.io/badge/-%E2%8F%AE-gray?style=flat"> <img src="https://img.shields.io/badge/-%E2%96%B6%EF%B8%8F-ff5500?style=flat"> <img src="https://img.shields.io/badge/-%E2%8F%AD-gray?style=flat">
       <br><br>
     </kbd>
   </a>
+  <br>
+  <sub>Click en el reproductor para escuchar mi lista en SoundCloud ☁️</sub>
 </div>

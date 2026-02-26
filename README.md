@@ -80,7 +80,7 @@ I am a technology enthusiast, passionate about system customization and software
 ### 🔗 ¡Conectemos! / Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/gigachad-plus-ultra-6b56aa326" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.tiktok.com/@TU_USUARIO" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://steamcommunity.com/id/TU_ID_STEAM" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 <a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>

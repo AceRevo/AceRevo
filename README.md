@@ -84,14 +84,11 @@ I am a technology enthusiast, passionate about system customization and software
 <a href="https://www.tiktok.com/@4cerev0" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://steamcommunity.com/id/TU_ID_STEAM" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
   
-  <div align="center">
-  <h3>🎧 Mi Playlist Favorita</h3>
-  <a href="https://www.youtube.com/watch?v=C9g3pU0VZd4">
-    <img src="https://img.youtube.com/vi/C9g3pU0VZd4/0.jpg" width="400" alt="Reproducir música" style="border-radius:15px;">
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=C9g3pU0VZd4">
-    <img src="https://img.shields.io/badge/PLAY-Click_para_escuchar-red?style=for-the-badge&logo=youtube" alt="Play">
-  </a>
-</div><a href="https://linktr.ee/ACEREVO" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
-</p>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=C9g3pU0VZd4">
+
+| <img src="https://img.youtube.com/vi/C9g3pU0VZd4/0.jpg" width="80" style="border-radius:50%;"> | **Now Playing**<br>Tik Tok Remixes 2025<br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdXp1NjlsYjN6b3dtcnZtZHRyZDRpZDRyYnd6dG1tZHpjMHR5MCZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxS06DkVH2/giphy.gif" width="150" height="30"> |
+| :--- | :--- |
+
+</a>
+</div>

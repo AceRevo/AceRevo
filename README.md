@@ -39,7 +39,7 @@ I am a technology enthusiast, passionate about system customization and software
 </details>
 
 ---
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 ###  Mi Arsenal Tecnológico / My Tech Stack
 
 ####  Sistemas Operativos & Entornos (Linux Enthusiast)

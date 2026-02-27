@@ -74,15 +74,19 @@ I am a technology enthusiast, passionate about system customization and software
 ---
 
 ###  Estadísticas / Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AceRevo&show_icons=true&theme=tokyonight&hide_border=true" alt="AceRevo Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=tokyonight&hide_border=true" alt="AceRevo Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AceRevo&show_icons=true&theme=tokyonight&hide_border=true" alt="AceRevo Github Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=tokyonight&hide_border=true" alt="AceRevo Top Langs" height="170" />
 </p>
 
 ---
 
-### Trofeos / Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AceRevo&theme=radical&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### Torfeos / Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AceRevo&theme=radical&column=5&no-frame=true" alt="AceRevo Trophies" />
+  </a>
+</p>
 
 ---
 

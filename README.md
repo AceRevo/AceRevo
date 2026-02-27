@@ -81,6 +81,11 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
+### Trofeos / Trophies  
+[![Trofeos de AceRevo](https://github-profile-trophy.vercel.app/?username=AceRevo&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ###  ¡Conectemos! / Let's Connect!
 
 <p align="left">

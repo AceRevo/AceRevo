@@ -74,9 +74,11 @@ I am a technology enthusiast, passionate about system customization and software
 ---
 
 ####  Estadísticas / Stats
-![](https://github-readme-stats.vercel.app/api?username=AceRevo&theme=dark&title_color=eb2f2f&icon_color=eb2f2f&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=dark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&theme=dark&title_color=eb2f2f&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img width="800" src="https://github-readme-stats.vercel.app/api?username=AceRevo&theme=dark&title_color=eb2f2f&icon_color=eb2f2f&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>  
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=dark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" /><br/><br/>
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&theme=dark&title_color=eb2f2f&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 

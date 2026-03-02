@@ -46,7 +46,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ###  Mi Arsenal Tecnológico / My Tech Stack
 
-####  Sistemas Operativos & Entornos (Linux Enthusiast)
+####  Sistemas Operativos & Entornos / OS & Entornos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -56,7 +56,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 
-####  Lenguajes & Bases de Datos
+####  Lenguajes & Bases de Datos / Languages ​​& Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

@@ -3,7 +3,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-red?style=flat-square" />
 </p>
 

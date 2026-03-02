@@ -42,9 +42,9 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-<h2>5K1LL5 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
 ###  Mi Arsenal Tecnológico / My Tech Stack
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ####  Sistemas Operativos & Entornos / OS & Entornos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -55,8 +55,6 @@ I am a technology enthusiast, passionate about system customization and software
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ####  Lenguajes & Bases de Datos / Languages ​​& Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

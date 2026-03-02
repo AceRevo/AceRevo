@@ -73,9 +73,9 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-###  Estadísticas / Stats
+### Estadísticas / Stats
 <p align="center">
- <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" />
 </p>
 
 ---

@@ -75,7 +75,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ####  Estadísticas / Stats
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=WELCOME+%7C+AceRevo&bg=222222&fg=DD2222" width="100%" alt="Banner de bienvenida de AceRevo en estilo oscuro y rojo" />
+  <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=tokyonight&background=1a1a1a&fire=eb2f2f&ring=eb2f2f&currStreakNum=eb2f2f&currStreakLabel=666666&sideNums=ffffff&sideLabels=666666&dates=666666&stroke=1a1a1a&hide_border=true" />
 </p>
 
 ---

@@ -75,7 +75,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ### Estadísticas / Stats
 <p align="center">
-  <img width="800" height="260" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" />
+  <img width="800" height="260" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=tokyonight&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=BBBBBB&background=000000" />
 </p>
 
 ---

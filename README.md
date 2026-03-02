@@ -75,9 +75,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ###  Estadísticas / Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AceRevo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+ <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
 </p>
 
 ---

@@ -79,6 +79,8 @@ I am a technology enthusiast, passionate about system customization and software
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 
+<img align="right" width=320px alt="side_sticker" src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gif" />
+
 #### Lenguajes & Bases de Datos / Languages & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,8 +89,6 @@ I am a technology enthusiast, passionate about system customization and software
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<img align="right" width=320px alt="side_sticker" src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gif" />
 
 #### Herramientas & Virtualización / Tools
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)

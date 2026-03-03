@@ -62,7 +62,6 @@ I am a technology enthusiast, passionate about system customization and software
 ![Fedora](https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-ef5350?style=for-the-badge&logo=garuda-linux&logoColor=white)

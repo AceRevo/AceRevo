@@ -79,7 +79,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 
-[tumblr_nigorsAgJY1tgzy56o1_400](https://github.com/user-attachments/assets/c65e8015-8cbc-4324-8bb7-a6cd57a2ea78)
+![tumblr_nigorsAgJY1tgzy56o1_400](https://github.com/user-attachments/assets/c65e8015-8cbc-4324-8bb7-a6cd57a2ea78)
 
 #### Lenguajes & Bases de Datos / Languages & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -105,7 +105,7 @@ I am a technology enthusiast, passionate about system customization and software
   <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=45&margin-h=30" 
        alt="AceRevo Trophies" 
        width="600" />
-</p>!
+</p>
 
 ---
 

@@ -2,11 +2,12 @@
   <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" width="800">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=AceRevo&color=eb2f2f&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
-### Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
+<h3 align="center">Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)</h3>
 
 ---
 
@@ -42,16 +43,17 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-### 📊 Estadísticas de Actividad / Streak Stats
+### 📊 Estadísticas & Lenguajes / Stats & Languages
 <p align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" />
 </p>
 
 ---
 
 ### 🛠️ Mi Arsenal Tecnológico / My Tech Stack
 
-<img align="right" width=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=160px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 #### Sistemas Operativos & Entornos / OS & Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

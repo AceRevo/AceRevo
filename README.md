@@ -60,8 +60,15 @@ I am a technology enthusiast, passionate about system customization and software
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-ef5350?style=for-the-badge&logo=garuda-linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Void Linux](https://img.shields.io/badge/Void_Linux-478471?style=for-the-badge&logo=void-linux&logoColor=white)
+![LFS](https://img.shields.io/badge/Linux_From_Scratch-FFA500?style=for-the-badge&logo=linux&logoColor=white)
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 

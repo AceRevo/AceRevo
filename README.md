@@ -100,7 +100,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ### 🏆 Trofeos / Trophies
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=30&margin-h=30" 
+  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=45&margin-h=30" 
        alt="AceRevo Trophies" 
        width="600" />
 </p>

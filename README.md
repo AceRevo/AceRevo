@@ -99,8 +99,15 @@ I am a technology enthusiast, passionate about system customization and software
 ---
 
 ### 🏆 Trofeos / Trophies
+<!--
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=7&margin-w=60" alt="AceRevo Trophies" />
+  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=7&margin-w=15" alt="AceRevo Trophies" />
+</p>
+-->
+<p align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=15" 
+       alt="AceRevo Trophies" 
+       width="600" />
 </p>
 
 ---

@@ -51,6 +51,11 @@ I am a technology enthusiast, passionate about system customization and software
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=false" />
 </p>
 
+#### Gráfico de Actividad / Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AceRevo&theme=react-dark&area=true&hide_border=false&point=eb2f2f&color=eb2f2f" />
+</p>
+
 ---
 
 ### 🛠️ Mi Arsenal Tecnológico / My Tech Stack

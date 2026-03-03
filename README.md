@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=eb2f2f&center=true&vCenter=true&width=500&lines=Software+Developer;Linux+Enthusiast;DAM+Student;System+Customization" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-red?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=AceRevo&color=eb2f2f&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-
-<h3 align="center">Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)</h3>
 
 ---
 
@@ -45,8 +47,8 @@ I am a technology enthusiast, passionate about system customization and software
 
 ### 📊 Estadísticas & Lenguajes / Stats & Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=false" />
 </p>
 
 ---
@@ -62,6 +64,7 @@ I am a technology enthusiast, passionate about system customization and software
 ![Fedora](https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-ef5350?style=for-the-badge&logo=garuda-linux&logoColor=white)
@@ -81,10 +84,12 @@ I am a technology enthusiast, passionate about system customization and software
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Herramientas & Virtualización / Tools
-- **IDEs:** VS Code, IntelliJ IDEA, Eclipse, SQL Developer, phpMyAdmin.
-- **Virtualization:** VMware, VirtualBox, Microsoft Azure.
-- **Shells:** Bash, Zsh, Fish.
-- **Local Stack:** XAMPP.
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-606060?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-203770?style=flat-square&logo=virtualbox&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-000000?style=flat-square&logo=zsh&logoColor=white)
 
 ---
 

@@ -49,6 +49,10 @@ I am a technology enthusiast, passionate about system customization and software
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-hyde.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-hyde.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" alt="Lenguajes más usados de AceRevo" />
+</p>
+
 ---
 
 ### 🛠️ Mi Arsenal Tecnológico / My Tech Stack

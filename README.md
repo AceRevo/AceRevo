@@ -45,8 +45,8 @@ I am a technology enthusiast, passionate about system customization and software
 
 ### 📊 Estadísticas & Lenguajes / Stats & Languages
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-hyde.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" />
 </p>
 
 ---
@@ -84,9 +84,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 ### 🏆 Trofeos / Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=7&margin-w=15" alt="AceRevo Trophies" />
-  </a>
+  <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=7&margin-w=15" alt="AceRevo Trophies" />
 </p>
 
 ---

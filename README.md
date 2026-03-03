@@ -46,7 +46,7 @@ I am a technology enthusiast, passionate about system customization and software
 ### 📊 Estadísticas & Lenguajes / Stats & Languages
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-hyde.vercel.app/api/top-langs/?username=AceRevo&layout=compact&theme=onedark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=false" />
 </p>
 
 ---

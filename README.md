@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Language-Español%20%2F%20English-red?style=flat-square" />
 </p>
 
-###  Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
+### Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
 
 ---
 
@@ -16,7 +16,7 @@
 
 Soy un apasionado de la tecnología, la personalización de sistemas y el desarrollo de software. Mi fuerte es la curiosidad técnica: desde configurar un entorno **Gentoo** desde cero hasta desarrollar aplicaciones con **Java** o **Python**.
 
-###  Sobre mí
+### Sobre mí
 - 🔭 Actualmente enfocado en: **Dominar el stack de DAM**.
 - 🐧 "I use Arch, btw": Amante de los Tiling Window Managers y la eficiencia en terminal.
 - ⚡ Intereses: Automatización, virtualización y optimización de flujos de trabajo.
@@ -31,22 +31,29 @@ Soy un apasionado de la tecnología, la personalización de sistemas y el desarr
 
 I am a technology enthusiast, passionate about system customization and software development. My strength is technical curiosity: from configuring a **Gentoo** environment from scratch to developing applications with **Java** or **Python**.
 
-###  About Me
+### About Me
 - 🔭 Currently focused on: **Mastering the DAM (Multiplatform App Development) stack**.
 - 🐧 "I use Arch, btw": Fan of Tiling Window Managers and terminal efficiency.
 - ⚡ Interests: Automation, virtualization, and workflow optimization.
-- 💬 Ask me about: **Linux, Bash scripting, or why Hyprland is visually stunning.**
+- 💬 Ask me about: **Linux, Bash scripting, or why Hyprland is stunning.**
 
 > "If it ain't broken, customize it until it is... then fix it." 
 </details>
 
 ---
 
-###  Mi Arsenal Tecnológico / My Tech Stack
+### 📊 Estadísticas de Actividad / Streak Stats
+<p align="center">
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" />
+</p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+---
 
-####  Sistemas Operativos & Entornos / OS & Entornos
+### 🛠️ Mi Arsenal Tecnológico / My Tech Stack
+
+<img align="right" width=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+#### Sistemas Operativos & Entornos / OS & Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -56,7 +63,7 @@ I am a technology enthusiast, passionate about system customization and software
 
 **Window Managers & DEs:** `Hyprland` | `AwesomeWM` | `bspwm` | `GNOME` | `KDE Plasma` | `XFCE`
 
-####  Lenguajes & Bases de Datos / Languages ​​& Databases
+#### Lenguajes & Bases de Datos / Languages & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -65,7 +72,7 @@ I am a technology enthusiast, passionate about system customization and software
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-####  Herramientas & Virtualización / Tools
+#### Herramientas & Virtualización / Tools
 - **IDEs:** VS Code, IntelliJ IDEA, Eclipse, SQL Developer, phpMyAdmin.
 - **Virtualization:** VMware, VirtualBox, Microsoft Azure.
 - **Shells:** Bash, Zsh, Fish.
@@ -73,19 +80,16 @@ I am a technology enthusiast, passionate about system customization and software
 
 ---
 
-####  Estadísticas / Stats
+### 🏆 Trofeos / Trophies
 <p align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=AceRevo&theme=dark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&hide_border=false" /><br/><br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=7&margin-w=15" alt="AceRevo Trophies" />
+  </a>
 </p>
 
 ---
 
-### Torfeos / Trophies
-[![trophy](https://trophy.ryglcloud.net/?username=AceRevo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-###  ¡Conectemos! / Let's Connect!
+### ¡Conectemos! / Let's Connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-l-saenz-s-6b56aa326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

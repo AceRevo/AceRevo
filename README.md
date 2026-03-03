@@ -81,9 +81,7 @@ I am a technology enthusiast, passionate about system customization and software
 ---
 
 ### Torfeos / Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AceRevo&theme=radical&column=5" alt="Trophies" />
-</p>
+[![Trophies de AceRevo](https://github-profile-trophy.vercel.app/?username=AceRevo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

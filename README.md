@@ -1,74 +1,139 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" alt="AceRevo Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" alt="AceRevo Cyber Banner" width="100%" />
+</p>
+
+<!-- ================= HUD NAVIGATION BAR ================= -->
+<p align="center">
+  <a href="#-sobre-mí--about-me"><code>💻 PERFIL</code></a> &nbsp;•&nbsp;
+  <a href="#-pilares-de-especialización--core-pillars"><code>⚡ PILARES</code></a> &nbsp;•&nbsp;
+  <a href="#-ricing-station--laboratorio-unix"><code>🐧 RIG & RICE</code></a> &nbsp;•&nbsp;
+  <a href="#️-arsenal-tecnológico--tech-stack"><code>🛠️ ARSENAL</code></a> &nbsp;•&nbsp;
+  <a href="#-estadísticas--actividad--metrics"><code>📊 MÉTRICAS</code></a> &nbsp;•&nbsp;
+  <a href="#-conectemos--lets-connect"><code>🌐 CONTACTO</code></a>
 </p>
 
 <!-- ================= ANIMATED TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=EB2F2F&center=true&vCenter=true&width=550&lines=Software+Developer;DAM+Student+%26+Multiplatform+Dev;Linux+%26+Gentoo+%2F+Arch+Power+User;Hyprland+%26+Wayland+Ricing+Enthusiast;System+Customization+%26+Automation;%3E_+'If+it+ain't+broken,+customize+it...'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=EB2F2F&center=true&vCenter=true&width=620&lines=Software+Developer;DAM+Student+%7C+Multiplatform+Dev;Linux+Enthusiast+%7C+Arch+%26+Gentoo;Hyprland+%26+Wayland+Power+User;System+Customization+%26+Automation;%3E_+'If+it+ain't+broken,+customize+it...'" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ================= QUICK STATUS BADGES ================= -->
+<!-- ================= SYSTEM STATUS CAPSULES ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OS_Kernel-Linux_Zen_%7C_Gentoo-161b22?style=for-the-badge&logo=linux&logoColor=eb2f2f&labelColor=0d1117" alt="OS" />
-  <img src="https://img.shields.io/badge/WM-Hyprland_Wayland-161b22?style=for-the-badge&logo=hyprland&logoColor=eb2f2f&labelColor=0d1117" alt="WM" />
+  <img src="https://img.shields.io/badge/Kernel-Linux_Zen_%7C_Gentoo-161b22?style=for-the-badge&logo=linux&logoColor=eb2f2f&labelColor=0d1117" alt="Kernel" />
+  <img src="https://img.shields.io/badge/Compositor-Hyprland_Wayland-161b22?style=for-the-badge&logo=hyprland&logoColor=eb2f2f&labelColor=0d1117" alt="WM" />
   <img src="https://img.shields.io/badge/Bilingual-ES_%2F_EN-161b22?style=for-the-badge&logo=googletranslate&logoColor=eb2f2f&labelColor=0d1117" alt="Language" />
-  <img src="https://komarev.com/ghpvc/?username=AceRevo&color=eb2f2f&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AceRevo&color=eb2f2f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 <!-- ================= TERMINAL FASTFETCH SHOWCASE ================= -->
-```ansi
-[1;31m       /\         [1;37macerevo[0m@[1;31mgreater-void[0m
-[1;31m      /  \        [1;37m--------------------[0m
-[1;31m     /\   \       [1;31mOS[0m: Arch Linux / Gentoo x86_64
-[1;31m    /      \      [1;31mHost[0m: Custom Rig / Virtual Labs
-[1;31m   /   ,,   \     [1;31mKernel[0m: Linux (Zen / Hardened)
-[1;31m  /   |  |  -\    [1;31mWM[0m: Hyprland (Wayland) + Waybar
-[1;31m /_-''    ''-_\   [1;31mShell[0m: Zsh + Starship & Bash Automation
-                  [1;31mEditor[0m: Neovim / VS Code / IntelliJ IDEA
-                  [1;31mFocus[0m: DAM (Desarrollo de Apps Multiplataforma)
-                  [1;31mStack[0m: Java, Python, SQL, JavaScript, PHP
-                  [1;31mMotto[0m: "Si no está roto, customízalo hasta que lo esté... y luego arréglalo."
+```bash
+       /\          acerevo@gentoo-box
+      /  \         ------------------
+     /\   \        HOST: Custom Rig (Virtual Lab & Daily Driver)
+    /      \       OS: Arch Linux x86_64 | Gentoo Stage-3
+   /   ,,   \      KERNEL: Linux Zen Hardened (Custom GCC Flags)
+  /   |  |  -\     WM / COMPOSITOR: Hyprland (Wayland Protocol)
+ /_-''    ''-_\    SHELL: Zsh 5.9 + Starship Minimal Crimson
+                   TERM / MULTIPLEXER: Kitty + Tmux
+                   EDITOR: Neovim (Custom Lua) | IntelliJ IDEA | VS Code
+                   DEVELOPMENT: Multiplatform App Development (DAM)
+                   CORE STACK: Java 21 • Python 3 • SQL • JavaScript • PHP
+                   STATUS: ⚡ Compiling code & crafting dotfiles
 ```
 
 ---
 
-<!-- ================= ABOUT ME (BILINGUAL) ================= -->
-<details open>
-<summary><b>🇪🇸 Sobre mí (Haz clic para colapsar)</b></summary>
-<br>
+<!-- ================= ABOUT ME ================= -->
+### 💻 Sobre mí / About Me
 
 > [!NOTE]
-> *"Si no está roto, customízalo hasta que lo esté... y luego arréglalo."*
+> **Filosofía / Motto:** *"Si no está roto, customízalo hasta que lo esté... y luego arréglalo."*  
+> *"If it ain't broken, customize it until it is... then fix it."*
 
-Soy un apasionado de la tecnología, la arquitectura de sistemas y el desarrollo de software. Mi motor principal es la curiosidad técnica profunda: desde compilar y afinar un sistema **Gentoo** o **Arch Linux** desde cero hasta desarrollar aplicaciones robustas con **Java**, **Python** y **bases de datos relacionales**.
+<details open>
+<summary><b>🇪🇸 Versión en Español (Haz clic para alternar)</b></summary>
+<br>
 
-* 🔭 **Enfoque actual:** Dominar y explotar al máximo el stack de **DAM** (Desarrollo de Aplicaciones Multiplataforma).
-* 🐧 **Ecosistema Linux:** Amante devoto de los *Tiling Window Managers*, la eficiencia pura en terminal y la personalización estética (*ricing*).
-* ⚡ **Intereses de investigación:** Automatización de tareas, virtualización avanzada (VMware, KVM, VirtualBox) y optimización de flujos de trabajo en entornos UNIX.
-* 💬 **Pregúntame sobre:** Configuración de Linux, scripts avanzados en Bash, o por qué **Hyprland** es el compositor definitivo para Wayland.
+Soy un desarrollador y entusiasta de los sistemas operativos orientado a la arquitectura técnica y la eficiencia operativa. Mi curiosidad me impulsa a explorar desde la compilación y optimización a bajo nivel con **Gentoo y Arch Linux** hasta la ingeniería de software moderna con **Java**, **Python** y **sistemas de bases de datos relacionales**.
+
+* 🎯 **Enfoque profesional:** Especialización en el stack de **DAM** (Desarrollo de Aplicaciones Multiplataforma).
+* 🐧 **Ecosistema UNIX:** Dominio de gestores de ventanas dinámicos (*Tiling WMs*), entornos Wayland y flujos de trabajo en terminal.
+* ⚡ **Investigación:** Virtualización avanzada (VMware Workstation Pro, KVM, VirtualBox), scripts de automatización y gestión de *dotfiles*.
+* 💬 **Hablemos de:** Arquitectura de software, scripting en Bash/Python o personalización avanzada en **Hyprland**.
 
 </details>
 
 <details>
-<summary><b>🇺🇸 About Me (Click to expand)</b></summary>
+<summary><b>🇺🇸 English Version (Click to toggle)</b></summary>
 <br>
 
-> [!NOTE]
-> *"If it ain't broken, customize it until it is... then fix it."*
+I am a software developer and systems enthusiast focused on technical architecture and workflow efficiency. My curiosity drives me from low-level compilation and system tuning with **Gentoo and Arch Linux** to robust multiplatform software engineering using **Java**, **Python**, and **relational databases**.
 
-I am a passionate technology enthusiast, systems customizer, and software developer. My driving force is deep technical curiosity: from compiling and tuning a **Gentoo** or **Arch Linux** installation from scratch to building scalable applications with **Java**, **Python**, and **SQL databases**.
-
-* 🔭 **Current Focus:** Mastering the **DAM** (Multiplatform Application Development) stack.
-* 🐧 **Linux Daily Driver:** Big advocate of *Tiling Window Managers*, terminal efficiency, and desktop ricing.
-* ⚡ **Interests:** Scripting & workflow automation, virtualization (VMware, VirtualBox, KVM), and UNIX environment tuning.
-* 💬 **Ask me about:** Linux distros, advanced Bash scripting, or why **Hyprland** rules Wayland.
+* 🎯 **Current Focus:** Mastering the **DAM** (Multiplatform Application Development) stack.
+* 🐧 **UNIX Workflow:** Strong advocate of Tiling Window Managers, the Wayland ecosystem, and terminal productivity.
+* ⚡ **Core Interests:** Hypervisor virtualization (VMware, KVM, VirtualBox), automation scripting, and dotfile engineering.
+* 💬 **Ask me about:** Software design, advanced Bash scripting, or creating aesthetic rices on **Hyprland**.
 
 </details>
+
+---
+
+<!-- ================= CORE PILLARS ================= -->
+### ⚡ Pilares de Especialización / Core Pillars
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <h3>📱 Multiplatform Dev</h3>
+      <p>Construcción de aplicaciones sólidas y mantenibles con <b>Java</b>, <b>Python</b> y <b>SQL</b>, aplicando patrones de diseño limpios y arquitectura modular.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <h3>🐧 UNIX & Systems</h3>
+      <p>Compilación de kernel, administración avanzada de entornos Linux (<b>Gentoo / Arch</b>), virtualización y creación de entornos aislados de laboratorio.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <h3>🎨 Ricing & Automation</h3>
+      <p>Ingeniería de <i>dotfiles</i>, compositores Wayland (<b>Hyprland</b>), automatización de tareas con scripts en Bash y herramientas de terminal aceleradas por GPU.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= RICING RIG SPECIFICATIONS ================= -->
+### 🐧 Ricing Station / Laboratorio UNIX
+
+<table width="100%">
+  <tr>
+    <th align="left">Componente</th>
+    <th align="left">Configuración / Tooling</th>
+  </tr>
+  <tr>
+    <td><b>Sistema Base</b></td>
+    <td>Arch Linux (Zen Kernel) & Gentoo Linux (Stage-3 Source)</td>
+  </tr>
+  <tr>
+    <td><b>Compositor / WM</b></td>
+    <td>Hyprland (Wayland) • Animaciones suaves Bézier • Waybar personalizado</td>
+  </tr>
+  <tr>
+    <td><b>Terminal & Shell</b></td>
+    <td>Kitty (GPU-Accelerated) • Zsh + Starship Prompt + Autosuggestions</td>
+  </tr>
+  <tr>
+    <td><b>Entorno de Desarrollo</b></td>
+    <td>Neovim (Configuración personalizada en Lua) • IntelliJ IDEA • VS Code</td>
+  </tr>
+  <tr>
+    <td><b>Virtualización</b></td>
+    <td>VMware Workstation Pro • Oracle VirtualBox • KVM</td>
+  </tr>
+</table>
 
 ---
 
@@ -77,41 +142,41 @@ I am a passionate technology enthusiast, systems customizer, and software develo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,mysql,bash,linux,arch,gentoo,debian,fedora,vscode,idea&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,mysql,bash,linux,arch,debian,kali,vscode,idea,git&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
-#### 💻 Lenguajes & Bases de Datos
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 💻 Lenguajes de Programación & Datos
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🐧 Linux Kernels & Distribuciones
+#### 🐧 Distribuciones & Núcleos Linux
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void_Linux-478471?style=for-the-badge&logo=void-linux&logoColor=white)
 ![LFS](https://img.shields.io/badge/Linux_From_Scratch-FFA500?style=for-the-badge&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### 🪟 Compositores, Window Managers & Entornos
+#### 🪟 Compositores & Gestores de Ventanas
 ![Hyprland](https://img.shields.io/badge/Hyprland-00C5C7?style=for-the-badge&logo=hyprland&logoColor=white)
 ![AwesomeWM](https://img.shields.io/badge/AwesomeWM-535D6C?style=for-the-badge&logo=awesomewm&logoColor=white)
 ![bspwm](https://img.shields.io/badge/bspwm-2E3440?style=for-the-badge&logo=linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 
-#### ⚙️ Herramientas, Virtualización & Shell
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### ⚙️ Automatización, Virtualización & Herramientas
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/ZSH-F1502F?style=for-the-badge&logo=zsh&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-606060?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_Pro-606060?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-203770?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -119,8 +184,8 @@ I am a passionate technology enthusiast, systems customizer, and software develo
 
 ---
 
-<!-- ================= GITHUB STATS & METRICS ================= -->
-### 📊 Estadísticas & Actividad / Stats & Activity
+<!-- ================= GITHUB STATS & ACTIVITY ================= -->
+### 📊 Estadísticas & Actividad / Metrics
 
 <table width="100%" align="center">
   <tr>
@@ -131,19 +196,29 @@ I am a passionate technology enthusiast, systems customizer, and software develo
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/AceRevo">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&border_color=eb2f2f&title_color=eb2f2f&hide_border=false" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&border_color=eb2f2f&title_color=eb2f2f&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
+#### 📈 Gráfico de Contribuciones / Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AceRevo&theme=react-dark&area=true&hide_border=false&point=eb2f2f&color=eb2f2f" alt="AceRevo Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/eb2f2f/AceRevo" alt="AceRevo Activity Graph" />
 </p>
 
 <!-- ================= TROPHIES ================= -->
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AceRevo&theme=onedark&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="AceRevo Trophies" />
+  <img width="100%" src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=25&margin-h=20" alt="AceRevo Trophies" />
+</p>
+
+---
+
+<!-- ================= VIBE & AUDIO STATION ================= -->
+<p align="center">
+  <a href="https://soundcloud.com/leonardo-saenz-78757811" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-Vibe_Station_%26_Audio_Selection-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Vibe Station" />
+  </a>
 </p>
 
 ---
@@ -173,5 +248,10 @@ I am a passionate technology enthusiast, systems customizer, and software develo
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gif" width="280" alt="Cyber Pixel Sticker" />
+  <img src="https://64.media.tumblr.com/d96142e7df943b273d6d4cb9fa0f9210/tumblr_nigorsAgJY1tgzy56o1_400.gif" width="300" alt="Cyber Pixel Art" />
+</p>
+
+<!-- ================= FOOTER SIGNATURE ================= -->
+<p align="center">
+  <sub>Diseñado con precisión estética en rojo carmesí <code>#eb2f2f</code> &bull; AceRevo &bull; 2026</sub>
 </p>

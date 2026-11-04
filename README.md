@@ -7,9 +7,9 @@
 <p align="center">
   <a href="#-sobre-mí--about-me"><code>💻 PERFIL</code></a> &nbsp;•&nbsp;
   <a href="#-pilares-de-especialización--core-pillars"><code>⚡ PILARES</code></a> &nbsp;•&nbsp;
-  <a href="#-ricing-station--laboratorio-unix"><code>🐧 RIG & RICE</code></a> &nbsp;•&nbsp;
+  <a href="#-laboratorio-unix--ricing-rig"><code>🐧 RIG & RICE</code></a> &nbsp;•&nbsp;
   <a href="#️-arsenal-tecnológico--tech-stack"><code>🛠️ ARSENAL</code></a> &nbsp;•&nbsp;
-  <a href="#-estadísticas--actividad--metrics"><code>📊 MÉTRICAS</code></a> &nbsp;•&nbsp;
+  <a href="#-dashboard-de-métricas--actividad"><code>📊 MÉTRICAS</code></a> &nbsp;•&nbsp;
   <a href="#-conectemos--lets-connect"><code>🌐 CONTACTO</code></a>
 </p>
 
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kernel-Linux_Zen_%7C_Gentoo-161b22?style=for-the-badge&logo=linux&logoColor=eb2f2f&labelColor=0d1117" alt="Kernel" />
   <img src="https://img.shields.io/badge/Compositor-Hyprland_Wayland-161b22?style=for-the-badge&logo=hyprland&logoColor=eb2f2f&labelColor=0d1117" alt="WM" />
-  <img src="https://img.shields.io/badge/Bilingual-ES_%2F_EN-161b22?style=for-the-badge&logo=googletranslate&logoColor=eb2f2f&labelColor=0d1117" alt="Language" />
+  <img src="https://img.shields.io/badge/Language-Español_%2F_English-161b22?style=for-the-badge&logo=googletranslate&logoColor=eb2f2f&labelColor=0d1117" alt="Language" />
   <img src="https://komarev.com/ghpvc/?username=AceRevo&color=eb2f2f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
@@ -90,15 +90,15 @@ I am a software developer and systems enthusiast focused on technical architectu
   <tr>
     <td width="33.3%" align="center" valign="top">
       <h3>📱 Multiplatform Dev</h3>
-      <p>Construcción de aplicaciones sólidas y mantenibles con <b>Java</b>, <b>Python</b> y <b>SQL</b>, aplicando patrones de diseño limpios y arquitectura modular.</p>
+      <p>Construcción de aplicaciones sólidas y estructuradas con <b>Java</b>, <b>Python</b> y <b>SQL</b>, aplicando patrones de diseño modulares.</p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h3>🐧 UNIX & Systems</h3>
-      <p>Compilación de kernel, administración avanzada de entornos Linux (<b>Gentoo / Arch</b>), virtualización y creación de entornos aislados de laboratorio.</p>
+      <p>Compilación de kernel, administración avanzada de distribuciones fuente (<b>Gentoo / Arch</b>), virtualización y laboratorios de pruebas.</p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <h3>🎨 Ricing & Automation</h3>
-      <p>Ingeniería de <i>dotfiles</i>, compositores Wayland (<b>Hyprland</b>), automatización de tareas con scripts en Bash y herramientas de terminal aceleradas por GPU.</p>
+      <p>Desarrollo de <i>dotfiles</i>, compositores Wayland (<b>Hyprland</b>), automatización con Bash y herramientas aceleradas por GPU.</p>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@ I am a software developer and systems enthusiast focused on technical architectu
 ---
 
 <!-- ================= RICING RIG SPECIFICATIONS ================= -->
-### 🐧 Ricing Station / Laboratorio UNIX
+### 🐧 Laboratorio UNIX / Ricing Rig
 
 <table width="100%">
   <tr>
@@ -119,7 +119,7 @@ I am a software developer and systems enthusiast focused on technical architectu
   </tr>
   <tr>
     <td><b>Compositor / WM</b></td>
-    <td>Hyprland (Wayland) • Animaciones suaves Bézier • Waybar personalizado</td>
+    <td>Hyprland (Wayland Protocol) • Curvas Bézier fluidas • Waybar personalizado</td>
   </tr>
   <tr>
     <td><b>Terminal & Shell</b></td>
@@ -184,32 +184,38 @@ I am a software developer and systems enthusiast focused on technical architectu
 
 ---
 
-<!-- ================= GITHUB STATS & ACTIVITY ================= -->
-### 📊 Estadísticas & Actividad / Metrics
+<!-- ================= GITHUB STATS & ACTIVITY (UNIFIED PALETTE) ================= -->
+### 📊 Dashboard de Métricas & Actividad
 
 <table width="100%" align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/AceRevo">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=AceRevo&theme=onedark&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&ring=eb2f2f&border=eb2f2f&hide_border=false" alt="GitHub Streak" />
+        <img width="100%" src="https://streak-stats.demolab.com/?user=AceRevo&background=0d1117&border=eb2f2f&stroke=30363d&ring=eb2f2f&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&currStreakLabel=eb2f2f&sideLabels=c9d1d9&dates=8b949e&hide_border=false&border_radius=8" alt="GitHub Streak Stats" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/AceRevo">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&theme=onedark&border_color=eb2f2f&title_color=eb2f2f&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
-#### 📈 Gráfico de Contribuciones / Contribution Graph
+<p align="center">
+  <a href="https://github.com/AceRevo">
+    <img width="85%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AceRevo&show_icons=true&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&icon_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="AceRevo Global Stats" />
+  </a>
+</p>
+
+#### 📈 Registro de Actividad & Contribuciones / Contribution Grid
 <p align="center">
   <img width="100%" src="https://ghchart.rshah.org/eb2f2f/AceRevo" alt="AceRevo Activity Graph" />
 </p>
 
-<!-- ================= TROPHIES ================= -->
+#### 🏆 Logros & Trofeos / Trophies Case
 <p align="center">
-  <img width="100%" src="https://trophygh.kolioaris.xyz/?username=AceRevo&theme=onedark&column=4&margin-w=25&margin-h=20" alt="AceRevo Trophies" />
+  <img width="100%" src="https://github-profile-trophy-fork-two.vercel.app/?username=AceRevo&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=4" alt="AceRevo Trophies" />
 </p>
 
 ---

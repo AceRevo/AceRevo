@@ -196,7 +196,7 @@ I am a software developer and systems enthusiast focused on technical architectu
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/AceRevo">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AceRevo&layout=compact&langs_count=8&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AceRevo&layout=compact&langs_count=8&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -204,18 +204,20 @@ I am a software developer and systems enthusiast focused on technical architectu
 
 <p align="center">
   <a href="https://github.com/AceRevo">
-    <img width="85%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AceRevo&show_icons=true&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&icon_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="AceRevo Global Stats" />
+    <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=AceRevo&show_icons=true&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&icon_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="AceRevo Global Stats" />
   </a>
 </p>
 
-#### 📈 Registro de Actividad & Contribuciones / Contribution Grid
+#### 📈 Registro de Actividad & Contribuciones / Contribution Activity
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/eb2f2f/AceRevo" alt="AceRevo Activity Graph" />
+  <a href="https://github.com/AceRevo">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AceRevo&bg_color=0d1117&color=eb2f2f&line=eb2f2f&point=ffffff&area=true&hide_border=false" alt="AceRevo Activity Graph" />
+  </a>
 </p>
 
 #### 🏆 Logros & Trofeos / Trophies Case
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy-fork-two.vercel.app/?username=AceRevo&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=4" alt="AceRevo Trophies" />
+  <img width="100%" src="https://github-profile-repo.vercel.app/?username=AceRevo&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=4" alt="AceRevo Trophies" />
 </p>
 
 ---

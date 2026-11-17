@@ -146,41 +146,53 @@ I am a software developer and systems enthusiast focused on technical architectu
   </a>
 </p>
 
+<div align="center">
+
 #### 💻 Lenguajes de Programación & Datos
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 #### 🐧 Distribuciones & Núcleos Linux
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-478471?style=for-the-badge&logo=void-linux&logoColor=white)
-![LFS](https://img.shields.io/badge/Linux_From_Scratch-FFA500?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo" />
+  <img src="https://img.shields.io/badge/Void_Linux-478471?style=for-the-badge&logo=void-linux&logoColor=white" alt="Void Linux" />
+  <img src="https://img.shields.io/badge/Linux_From_Scratch-FFA500?style=for-the-badge&logo=linux&logoColor=white" alt="LFS" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Fedora-293188?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" />
+</p>
 
 #### 🪟 Compositores & Gestores de Ventanas
-![Hyprland](https://img.shields.io/badge/Hyprland-00C5C7?style=for-the-badge&logo=hyprland&logoColor=white)
-![AwesomeWM](https://img.shields.io/badge/AwesomeWM-535D6C?style=for-the-badge&logo=awesomewm&logoColor=white)
-![bspwm](https://img.shields.io/badge/bspwm-2E3440?style=for-the-badge&logo=linux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyprland-00C5C7?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/AwesomeWM-535D6C?style=for-the-badge&logo=awesomewm&logoColor=white" alt="AwesomeWM" />
+  <img src="https://img.shields.io/badge/bspwm-2E3440?style=for-the-badge&logo=linux&logoColor=white" alt="bspwm" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma" />
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
+</p>
 
 #### ⚙️ Automatización, Virtualización & Herramientas
-![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/ZSH-F1502F?style=for-the-badge&logo=zsh&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_Pro-606060?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-203770?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash" />
+  <img src="https://img.shields.io/badge/ZSH-F1502F?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+  <img src="https://img.shields.io/badge/VMware_Pro-606060?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/VirtualBox-203770?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
 
 ---
 
@@ -189,12 +201,12 @@ I am a software developer and systems enthusiast focused on technical architectu
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/AceRevo">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=AceRevo&background=0d1117&border=eb2f2f&stroke=30363d&ring=eb2f2f&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&currStreakLabel=eb2f2f&sideLabels=c9d1d9&dates=8b949e&hide_border=false&border_radius=8" alt="GitHub Streak Stats" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=AceRevo&show_icons=true&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&icon_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="AceRevo Global Stats" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/AceRevo">
         <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AceRevo&layout=compact&langs_count=8&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
       </a>
@@ -204,7 +216,7 @@ I am a software developer and systems enthusiast focused on technical architectu
 
 <p align="center">
   <a href="https://github.com/AceRevo">
-    <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=AceRevo&show_icons=true&bg_color=0d1117&border_color=eb2f2f&title_color=eb2f2f&icon_color=eb2f2f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&hide_border=false" alt="AceRevo Global Stats" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=AceRevo&background=0d1117&border=eb2f2f&stroke=30363d&ring=eb2f2f&fire=eb2f2f&currStreakNum=eb2f2f&sideNums=eb2f2f&currStreakLabel=eb2f2f&sideLabels=c9d1d9&dates=8b949e&hide_border=false&border_radius=8" alt="GitHub Streak Stats" />
   </a>
 </p>
 
@@ -217,16 +229,7 @@ I am a software developer and systems enthusiast focused on technical architectu
 
 #### 🏆 Logros & Trofeos / Trophies Case
 <p align="center">
-  <img width="100%" src="https://github-profile-repo.vercel.app/?username=AceRevo&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=4" alt="AceRevo Trophies" />
-</p>
-
----
-
-<!-- ================= VIBE & AUDIO STATION ================= -->
-<p align="center">
-  <a href="https://soundcloud.com/leonardo-saenz-78757811" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-Vibe_Station_%26_Audio_Selection-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Vibe Station" />
-  </a>
+  <img src="https://github-profile-repo.vercel.app/?username=AceRevo&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=4" alt="AceRevo Trophies" />
 </p>
 
 ---

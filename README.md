@@ -3,8 +3,19 @@
   <img src="https://github.com/user-attachments/assets/f515d2c8-572d-40ea-8776-745289715c64" alt="AceRevo Cyber Banner" width="100%" />
 </p>
 
+<!-- ================= LIVE PORTFOLIO CALLOUT ================= -->
+<p align="center">
+  <a href="https://acerevo.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-ACEREVO.GITHUB.IO-eb2f2f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070a" alt="Live Portfolio" />
+  </a>
+  <a href="https://acerevo.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/⚡_3D_WEBGL_EXPERIENCE-EXPLORE_NOW-161b22?style=for-the-badge&logo=webgl&logoColor=eb2f2f&labelColor=0d1117" alt="WebGL Experience" />
+  </a>
+</p>
+
 <!-- ================= HUD NAVIGATION BAR ================= -->
 <p align="center">
+  <a href="https://acerevo.github.io" target="_blank"><code>🌐 PORTFOLIO</code></a> &nbsp;•&nbsp;
   <a href="#-sobre-mí--about-me"><code>💻 PERFIL</code></a> &nbsp;•&nbsp;
   <a href="#-pilares-de-especialización--core-pillars"><code>⚡ PILARES</code></a> &nbsp;•&nbsp;
   <a href="#-laboratorio-unix--ricing-rig"><code>🐧 RIG & RICE</code></a> &nbsp;•&nbsp;
@@ -238,6 +249,9 @@ I am a software developer and systems enthusiast focused on technical architectu
 ### 🌐 ¡Conectemos! / Let's Connect!
 
 <p align="center">
+  <a href="https://acerevo.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-eb2f2f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/angel-l-saenz-s-6b56aa326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
